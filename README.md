@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-Computer Engineering Student<br>Java Enthusiast<br>I’m currently working on Java & Spring Boot<br>
+💻Computer Engineering Student<br>📈Java Enthusiast<br>👨‍💻I’m currently working on Java & Spring Boot<br>
 
 
 ## 🌐 Socials:
